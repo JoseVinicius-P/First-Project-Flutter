@@ -1,6 +1,6 @@
 import 'package:english_words/english_words.dart';
 import 'package:flutter/material.dart';
-import 'package:my_app/utilities/MyAppState.dart';
+import 'package:my_app/blocs/MyAppState.dart';
 import 'package:provider/provider.dart';
 
 void main() {
